@@ -9,7 +9,7 @@
 Planning a trip is overwhelming and time-consuming. Travelers must:
 - Compare hundreds of flight options across multiple websites
 - Research destinations, attractions, and local customs
-- Find suitable hotels and restaurants that match their preferences
+- Find suitable hotels and restaurants that match their preferences 
 - Create day-by-day itineraries that optimize time and budget
 - Coordinate all this information into a coherent travel plan
 
@@ -368,9 +368,9 @@ itinerary = planner.create_itinerary(
 
 ## 📞 Contact
 
-- GitHub: 
+- GitHub: https://github.com/sofiyasavanur3/ai-travel-planner
 - Email: sofiyasavanur3@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/sofiyasavanur/
 
 ---
 
